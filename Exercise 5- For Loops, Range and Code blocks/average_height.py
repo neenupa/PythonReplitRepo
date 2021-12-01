@@ -16,10 +16,10 @@ for n in range(0, len(student_heights)):
 # print(f"Average height = {avg_height}")
 
 #With FOR LOOP
+
 total_height=0
-for n in range(0, len(student_heights)):
-  student_heights[n] = int(student_heights[n])
-  total_height += student_heights[n]
+for height in student_heights:
+  total_height += height
 
 avg_height=round(total_height/len(student_heights))
 print(f"Average height = {avg_height}")
