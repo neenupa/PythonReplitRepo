@@ -1,4 +1,5 @@
-#Print a list
+## LIST
+
 ## IMPORTANT : Refer below link on Data structures and List operations
 # Reference : https://docs.python.org/3/tutorial/datastructures.html
 
@@ -23,13 +24,9 @@ print(fruits.count("Mango"))
 
 print(len(fruits))
 
-#Add two lists of fruits and Veg
 
-fruits = ["Strawberries","Grapes","Apple"]
-vegetables =["Spinach", "Kale", "Tomatoes"]
 
-dirty_dozen = [fruits, vegetables]
 
-print(dirty_dozen)
+
 
 
