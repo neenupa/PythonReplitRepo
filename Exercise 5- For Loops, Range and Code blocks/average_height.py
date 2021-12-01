@@ -8,8 +8,6 @@ for n in range(0, len(student_heights)):
 
 # 🚨 Don't change the code above 👆
 
-#Write your code below this row 👇
-
 # Without FOR LOOP
 
 # avg_height= round(sum(student_heights)/len(student_heights))
