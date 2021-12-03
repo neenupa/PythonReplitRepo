@@ -17,5 +17,13 @@ def jump():
  move()
  turn_left()
 
-for i in range(0, 6):
- jump()
+#for i in range(6):
+ #jump()
+    
+#number_of_hurdles=6
+#while number_of_hurdles > 0:
+ #jump()
+ #number_of_hurdles -= 1
+    
+while not at_goal():
+    jump()
