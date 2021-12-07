@@ -15,3 +15,5 @@ friends_name = input("What`s your friends name ?")
 region = input("Where he live ?")
 
 greet(friends_name, region)
+
+greet(region= region, name= friends_name)
