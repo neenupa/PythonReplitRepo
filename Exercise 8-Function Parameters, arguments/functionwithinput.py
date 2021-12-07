@@ -3,7 +3,6 @@
 # Write 3 print statements inside the function.
 # Call the greet() function and run your code.
 
-
 # Example : name = Tom 
 # name : Paramter and Tom : Argument 
 
